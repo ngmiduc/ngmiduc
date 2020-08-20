@@ -1,18 +1,21 @@
 ### Hi ! I am Minh :sun_with_face: 
 
 🔭 I’m currently working on SPA with Arthur Intelligence, Montreal - QC
+Javascript developer and more!
 
 🌱 I’m currently learning swimming 
+- now let's learn free style
 
 👯 I’m looking to collaborate on art projects
-
-🤔 I’m looking for help with ...
+- installations and new media art
 
 💬 Ask me about everything !
+- reactJs
+- vueJs
+- javascript and single page applications
 
 📫 How to reach me: info@nguyenminhduc.de
 
 😄 Pronouns: Minh
 
 ⚡ Fun fact: I am a magician
-
