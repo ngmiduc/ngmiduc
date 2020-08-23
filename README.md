@@ -10,9 +10,12 @@ Javascript developer and more!
 - installations and new media art
 
 💬 Ask me about everything !
-- reactJs
-- vueJs
+- reactjs
+- vuejs
 - javascript and single page applications
+- art works
+- artistic coding
+- livecoding
 
 📫 How to reach me: info@nguyenminhduc.de
 
